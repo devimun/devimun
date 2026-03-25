@@ -15,8 +15,6 @@
 
 ## 📫 연락처
 
-📧 Email: [메일 전송하기](devimun909@gmail.com)
-
 💬 KakaoTalk 오픈채팅: [오픈채팅 연결하기](https://open.kakao.com/o/sQLJDl1h)
 
 ## 🛠️ 기술 스택
